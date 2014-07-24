@@ -1,6 +1,6 @@
 # maptime logo
 
-A JavaScript-powered instarainbow version of the maptime logo.
+A JavaScript-powered instarainbow version of the maptime logo. !!!
 
 ## example
 
